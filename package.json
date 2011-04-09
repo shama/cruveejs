@@ -1,0 +1,17 @@
+{
+  "name": "cruvee",
+  "description": "",
+  "version": "0.1",
+  "homepage": "http://developer.cruvee.com",
+  "repository": "git://github.com/shama/cruvee-node.git",
+  "author": "Kyle Robinson Young <kyle at dontkry.com>",
+  "main": "lib/cruvee.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "*"
+  }, 
+  "dependencies":{
+  }
+}
