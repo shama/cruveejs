@@ -1,17 +1,15 @@
 {
   "name": "cruvee",
-  "description": "",
-  "version": "0.1",
-  "homepage": "http://developer.cruvee.com",
+  "description": "A Cruvee API Wrapper for NodeJS",
+  "version": "0.1.1",
+  "homepage": "http://dontkry.com",
   "repository": "git://github.com/shama/cruvee-node.git",
   "author": "Kyle Robinson Young <kyle at dontkry.com>",
-  "main": "lib/cruvee.js",
+  "main": "index",
   "directories": {
     "lib": "lib"
   },
-  "engines": {
-    "node": "*"
-  }, 
+  "engines" : { "node" : "0.4 || 0.5" },
   "dependencies":{
   }
 }
