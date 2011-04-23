@@ -59,7 +59,7 @@ cruveejs is offered under an [MIT license](http://www.opensource.org/licenses/mi
 2011 Kyle Robinson Young, [dontkry.com](http://dontkry.com) in association with Everflight, [everflight.com](http://everflight.com}
 If you found this release useful please let the author know! Follow on [Twitter](http://twitter.com/kyletyoung)
 
-### Roadmap / Known Issues
+## Roadmap / Known Issues
 
 - When it fails, it fails poorly. Need to add some proper error handling.
 
