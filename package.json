@@ -3,7 +3,7 @@
   "description": "A Cruvee API Wrapper for NodeJS",
   "version": "0.1.1",
   "homepage": "http://dontkry.com",
-  "repository": "git://github.com/shama/cruvee-node.git",
+  "repository": "git://github.com/shama/cruveejs.git",
   "author": "Kyle Robinson Young <kyle at dontkry.com>",
   "main": "index",
   "directories": {
