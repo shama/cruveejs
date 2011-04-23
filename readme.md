@@ -48,7 +48,7 @@ APIs currently supported:
 
 ## Issues
 
-Please report any issues you have with the plugin to the [issue tracker](http://github.com/shama/cruveenode/issues) on github.
+Please report any issues you have with the plugin to the [issue tracker](http://github.com/shama/cruveejs/issues) on github.
 
 ## License
 
