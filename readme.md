@@ -46,6 +46,10 @@ APIs currently supported:
 - cruvee.wines({}, function(json) { console.log(json); });
 - cruvee.locations({}, function(json) { console.log(json); });
 
+## Tests
+
+Uses [nodeunit](https://github.com/caolan/nodeunit). In the base folder run the command `nodeunit test`
+
 ## Issues
 
 Please report any issues you have with the plugin to the [issue tracker](http://github.com/shama/cruveejs/issues) on github.
@@ -61,5 +65,6 @@ If you found this release useful please let the author know! Follow on [Twitter]
 
 ## Roadmap / Known Issues
 
+- Finish writing tests
 - When it fails, it fails poorly. Need to add some proper error handling.
 

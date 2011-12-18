@@ -1,7 +1,7 @@
 {
   "name": "cruvee",
   "description": "A Cruvee API Wrapper for NodeJS",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "homepage": "http://dontkry.com",
   "repository": "git://github.com/shama/cruveejs.git",
   "author": "Kyle Robinson Young <kyle at dontkry.com>",
@@ -9,7 +9,7 @@
   "directories": {
     "lib": "lib"
   },
-  "engines" : { "node" : "0.4 || 0.5" },
+  "engines" : { "node" : "0.4 || 0.5 || 0.6" },
   "dependencies":{
   }
 }
